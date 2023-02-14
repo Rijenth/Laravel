@@ -1,4 +1,4 @@
 # Laravel
 Docker template
 
-```cd backend && docker-compose up -d```
+```git clone https://github.com/Rijenth/Laravel.git && cd laravel && docker-compose up -d```
